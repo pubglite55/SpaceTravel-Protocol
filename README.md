@@ -50,7 +50,7 @@ SpaceTravel-Protocol/
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/yourusername/SpaceTravel-Protocol.git
+git clone https://github.com/pubglite55/SpaceTravel-Protocol.git
 cd SpaceTravel-Protocol
 ```
 
