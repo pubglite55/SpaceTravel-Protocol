@@ -1,10 +1,14 @@
-# Moondrop Space Travel 蓝牙协议分析
+# 水月雨 MOONDROP Space Travel 太空漫游 蓝牙协议分析
 
-基于逆向工程分析 Moondrop Space Travel TWS 耳机的蓝牙通信协议。
+**水月雨 MOONDROP** | **Space Travel 太空漫游** | **TWS真无线耳机**
+
+基于逆向工程分析 **水月雨 MOONDROP Space Travel 太空漫游** TWS 真无线耳机的蓝牙通信协议。
 
 ## 项目概述
 
-本项目通过反编译 MOONDROP Link APP、抓包分析、Frida Hook 等手段，完整分析了 Space Travel 耳机的蓝牙连接协议和通信机制。
+本项目通过反编译 **水月雨官方 MOONDROP Link APP**、抓包分析、Frida Hook 等手段，完整分析了 **MOONDROP Space Travel 太空漫游** 耳机的蓝牙连接协议和通信机制。
+
+> **官方产品页面**: https://moondroplab.com/cn/products/space-travel
 
 ### 核心发现
 
@@ -187,16 +191,21 @@ Key Algorithm: RSA 2048-bit
 SHA-256: d7b972698f528a7994cf6aa814b266564c777f91641568142d11221ff77125b7
 ```
 
-## 硬件规格
+## 水月雨 MOONDROP Space Travel 太空漫游 硬件规格
 
 | 参数 | 值 |
 |------|-----|
-| 产品型号 | MOONDROP Space Travel |
+| 品牌 | **水月雨 MOONDROP** |
+| 产品型号 | **Space Travel 太空漫游** |
+| 产品类型 | TWS 真无线耳机 |
 | 蓝牙版本 | 5.3 |
 | 芯片平台 | Qualcomm |
 | 编解码 | SBC / AAC |
 | 协议 | A2DP / AVRCP / HFP / HSP |
 | 续航 | 耳机 4h / 充电仓 12h |
+| 工作距离 | 10米 (无障碍空旷环境) |
+| 官方APP | MOONDROP Link |
+| 官方网站 | https://moondroplab.com/cn/products/space-travel |
 
 ## 参考资料
 
