@@ -1,0 +1,26 @@
+# Build outputs
+*.apk
+*.aab
+*.dex
+*.class
+
+# Gradle
+.gradle/
+build/
+local.properties
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+frida_*.log
+
+# Temporary
+tmp/
+temp/
