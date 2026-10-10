@@ -1,5 +1,11 @@
 # 水月雨 MOONDROP Space Travel 太空漫游 蓝牙协议分析
 
+<p align="center">
+  <a href="https://github.com/pubglite55/SpaceTravel-Protocol/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/pubglite55/SpaceTravel-Protocol?style=flat-square&label=Stars"></a>
+  <a href="https://github.com/pubglite55/SpaceTravel-Protocol/commits/main"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/pubglite55/SpaceTravel-Protocol?style=flat-square&label=Last%20Commit"></a>
+  <a href="https://github.com/pubglite55/SpaceTravel-Protocol/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/pubglite55/SpaceTravel-Protocol?style=flat-square&label=License"></a>
+</p>
+
 **水月雨 MOONDROP** | **Space Travel 太空漫游** | **TWS真无线耳机**
 
 基于逆向工程分析 **水月雨 MOONDROP Space Travel 太空漫游** TWS 真无线耳机的蓝牙通信协议。
